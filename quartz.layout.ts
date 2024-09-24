@@ -71,14 +71,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
-    Component.MobileOnly(Component.Search()),
-    Component.DesktopOnly(Component.Backlinks()),
+    Component.Search(),
     Component.DesktopOnly(Component.RecentNotes({ title: "Updated Recently", limit: 5 })),
   ],
   right: [
-    Component.DesktopOnly(Component.Search()),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(graph),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
@@ -89,10 +88,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
-    Component.MobileOnly(Component.Search()),
-    Component.DesktopOnly(Component.Backlinks()),
+    Component.Search()
   ],
-  right: [
-    Component.DesktopOnly(Component.Search()),
-  ],
+  right: [],
 }
