@@ -1,5 +1,6 @@
 ---
 title: Alex Sokol
+description: Follow through this website to learn something about me.
 ---
 ![[avatar_banner.jpg]]
 
