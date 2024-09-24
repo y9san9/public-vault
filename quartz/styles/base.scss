@@ -475,7 +475,10 @@ tr {
 img {
   max-width: 100%;
   border-radius: 5px;
-  margin: 1rem 0;
+}
+
+img[src*="inline"] {
+  border-radius: 0;
 }
 
 p > img + em {
