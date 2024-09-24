@@ -24,6 +24,7 @@ Feel free to reach me:
 ![[inline_telegram_logo.png|13]] **Telegram**: [@y9san9](https://t.me/y9san9)
 ![[inline_gmail_logo.png|13]] **Email**: y9san9@gmail.com
 ![[inline_github_logo.png|13]] **GitHub**: [@y9san9](https://github.com/y9san9)
+![[obsidian_logo.png|13]] **Blog**: [[blog/index|link]]
 
 In any of these languages:
 
