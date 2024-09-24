@@ -5,21 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'y9san9/public-vault',
-        // from data-repo-id
-        repoId: 'R_kgDOM15F1A',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOM15F1M4CivVq',
-      }
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       "GitHub": "https://github.com/y9san9/public-vault",
@@ -68,6 +54,22 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [
+    Component.MobileOnly(Component.Backlinks()),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'y9san9/public-vault',
+        // from data-repo-id
+        repoId: 'R_kgDOM15F1A',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOM15F1M4CivVq',
+      }
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -79,7 +81,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.MobileOnly(Component.Backlinks()),
     Component.DesktopOnly(graph),
   ],
 }
@@ -90,16 +91,11 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Darkmode(),
+    Component.MobileOnly(Component.Search()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.Search()),
+  ],
 }
