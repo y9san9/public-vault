@@ -1,5 +1,5 @@
 
-![[inline_github_logo.png|13]] **Sources**: [y9san9/wdater](https://github.com/y9san9/wdater)
+![[inline_github_logo.png|13]] **Sources**: [meetacy/wdater](https://github.com/meetacy/wdater)
 📊 **Status:** Experimental
 🚀 **Type**: [[Kotlin Libraries]]
 
