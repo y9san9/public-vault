@@ -74,8 +74,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Updated Recently",
-      limit: 5,
-      sort:
+      limit: 5
     })),
   ],
   right: [
