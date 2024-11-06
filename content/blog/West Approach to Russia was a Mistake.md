@@ -1,5 +1,5 @@
 ---
-description: The story begins with Russian soldiers entering Ukraine. Almost immediately, Europe and the US react. They predictably decide to help Ukraine and oppose Russia. Media hop on the trend and start fighting against Russia as well, but this time in information warfare. This is where Western strategy went wrong.
+description: Media hop on the trend and start fighting against Russia as well, but this time in information warfare. This is where Western strategy went wrong.
 ---
 # West approach to Russia was a mistake
 
