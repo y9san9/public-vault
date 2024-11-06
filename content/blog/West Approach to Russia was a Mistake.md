@@ -30,4 +30,6 @@ The more effective way would be to make Russians victims of the regime much like
 
 Yet logically it would be more effective. If everyone understands that there is propaganda on TV, the West could be as friendly to Russians as it is to Ukrainians and get consensus and support from Russians as well. Including, but not limited to, more financial support.
 
-What we get instead is the absence of strategy and aggression addressed to Russia (including the Russian people) that helps the Russian government to make people polarized. Thank you, West. From Russia with love.
+What we get instead is the absence of strategy and aggression addressed to Russia (including the Russian people) that helps the Russian government to make people polarized. Thank you, West. 
+
+From Russia with love.
