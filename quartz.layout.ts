@@ -72,7 +72,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
     Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Updated Recently", limit: 5 })),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Updated Recently",
+      limit: 5,
+      sort:
+    })),
   ],
   right: [
     Component.DesktopOnly(graph),
