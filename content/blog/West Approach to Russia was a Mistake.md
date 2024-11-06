@@ -1,7 +1,7 @@
 ---
 description: Media hop on the trend and start fighting against Russia as well, but this time in information warfare. This is where Western strategy went wrong.
 ---
-# West approach to Russia was a mistake
+# West Approach to Russia was a Mistake
 
 > [!warning] Disclaimer
 > I am not complaining. This post is not about how I personally was affected by the conflict, but just some abstract thoughts about strategy that other countries selected to help Ukraine in this conflict and why their tactic could be much more effective.
