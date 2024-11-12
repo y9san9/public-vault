@@ -29,7 +29,7 @@ when (parseResult) {
 // Calculate expression
 val expression = parseResult.value
 
-val result = tryCalculate(expression0
+val result = tryCalculate(expression)
 
 when (result) {
 	is MathCalculateSuccess -> println("Result: ${result.number}")
