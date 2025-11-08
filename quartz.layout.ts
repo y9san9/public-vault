@@ -76,8 +76,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Search(),
     Component.DesktopOnly(Component.RecentNotes({
-      title: "Updated Recently",
-      limit: 5
+      title: "Random",
+      limit: 5,
+      linkToMore: "content"
     })),
   ],
   right: [

@@ -11,12 +11,21 @@
 
     & > li {
       margin: 1rem 0;
-      .section > .desc > h3 > a {
+      margin: 0 0 0.5rem 0;
+
+      .internal {
+          padding: 0;
+      }
+
+      p {
+          margin: 0;
+      }
+
+      .section > p > a {
         background-color: transparent;
       }
 
-      .section > .meta {
-        margin: 0 0 0.5rem 0;
+      .section > p > .meta {
         opacity: 0.6;
       }
     }
