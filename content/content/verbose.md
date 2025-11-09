@@ -104,11 +104,14 @@ title: Verbose
 
 ## Education
 
-- **PhD**: My dream is to move to Europe for a while and graduate for PhD. I don't have any ideas how I will manage to do this yet
+- **PhD** (not yet)
+  My dream is to move to Europe for a while and graduate for PhD. I don't have any ideas how I will manage to do this yet
 
-- **Master's Degree**: Scientific Programming at [MIPT / МФТИ](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)
+- **Master's Degree** (2025 - 2026)
+  Scientific Programming at [MIPT / МФТИ](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)
 
-- **Bachelor's Degree**: Control in Technical Systems at [MTUCI / МТУСИ](https://en.wikipedia.org/wiki/Moscow_Technical_University_of_Communications_and_Informatics)
+- **Bachelor's Degree** (2021 - 2025)
+  Control in Technical Systems at [MTUCI / МТУСИ](https://en.wikipedia.org/wiki/Moscow_Technical_University_of_Communications_and_Informatics)
 
 ## Political Views
 
