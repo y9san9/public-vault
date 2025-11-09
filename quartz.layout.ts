@@ -67,7 +67,6 @@ export const defaultContentPageLayout: PageLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDOM15F1M4CivVq',
-        defaultCommentOrder: 'newest',
       }
     }),
   ],
