@@ -21,7 +21,7 @@ title: Verbose
 **City:** Moscow, Russia
 **Timezone:** UTC+3
 **Neovim Config**: [y9san9.nvim](https://github.com/y9san9/y9san9.nvim)
-**Bicycle:** Cannondale Topstone 3
+**Bicycles:** Cannondale Topstone 3, Shultz Hopper XL
 **Favorite Tea:** Tieguanyin
 **Mafia Nickname:** Mr. Juice / г-н Сок
 **T-Shirt Size**: XXXL
