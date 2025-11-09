@@ -1,6 +1,7 @@
 ---
 title: Aλex Sokol
 description: "Metadata about @y9san9"
+socialImage: resources/avatar_banner.jpg
 ---
 
 [\<\< prev](https://webring.otomir23.me/y9san9/prev) | [webring](https://webring.otomir23.me/) \| [next \>\>](https://webring.otomir23.me/y9san9/next)
