@@ -14,6 +14,8 @@ title: Verbose
 **Preferred Name:** Alex / Алекс
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
 **Birth date:** 20.12.2003
+**Height:** 6'3" / 192cm
+**Weigth:** 165lbs / 75kg
 **Company**: Scientific Programming Center
 **Martial Status:** Happily Married
 **City:** Moscow, Russia
@@ -23,6 +25,7 @@ title: Verbose
 **Favorite Tea:** Tieguanyin
 **Mafia Nickname:** Mr. Juice / г-н Сок
 **T-Shirt Size**: XXXL
+**Clash Royale Tag**: [#​PJJL8JYR](https://royaleapi.com/player/PJJL8JYR)
 
 ## Public Activities
 
