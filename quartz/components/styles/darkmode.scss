@@ -1,3 +1,5 @@
+@use "../../styles/variables.scss" as *;
+
 .darkmode {
   cursor: pointer;
   padding: 0;
@@ -9,6 +11,9 @@
   margin: 0;
   text-align: inherit;
   flex-shrink: 0;
+  @media all and ($mobile) {
+      margin: 1em;
+  }
 
   & svg {
     position: absolute;

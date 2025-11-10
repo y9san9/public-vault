@@ -1,5 +1,6 @@
 ---
 title: Verbose
+description: Random facts about me. Don't waste your time...
 ---
 
 # Verbose
@@ -26,6 +27,7 @@ title: Verbose
 **Mafia Nickname:** Mr. Juice / г-н Сок
 **T-Shirt Size**: XXXL
 **Clash Royale Tag**: [#​PJJL8JYR](https://royaleapi.com/player/PJJL8JYR)
+**YouTube**: [@y9san9](https://youtube.com/@y9san9)
 
 ## Public Activities
 
@@ -69,6 +71,7 @@ title: Verbose
 
 <details> <summary><b>🟡 Maintenance</b></summary>
 
+- [LifeTime](https://github.com/y9san9/lifetime) - Wallet for your time
 - [Prizebot](https://github.com/y9san9/prizebot) - Telegram Bot for raffles via random.org
 - [Catbot](https://github.com/y9san9/catbot) - Simple telegram cat-captcha bot
 - [aqueue](https://github.com/y9san9/aqueue) – Asynchronous Queue with fine-grained control over concurrency
