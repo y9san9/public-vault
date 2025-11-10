@@ -10,6 +10,6 @@ Feel free to criticize, I always want to learn more.
 
 Updates for this website are published to:
 
-- [<img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white#inline" alt="Rss" height="18"> RSS Feed](index.xml)
+- [![[inline_rss_badge.svg|35]] RSS Feed](index.xml)
 - [![[inline_telegram_logo.png|14]] Telegram](https://t.me/alexmeta)
 
