@@ -66,6 +66,7 @@ description: Random facts about me. Don't waste your time...
 - [Kotlin Meta](https://t.me/kotlinmeta) – Telegram Channel about Kotlin Programming Language
 - [Phronology](https://phronology.com) – No bullshit wellbeing discipline
 - [[content/|Blog]] – This website where I share random notes with world
+- [y9nika.nvim](https://github.com/y9san9/y9nika.nvim) – Neovim Colorscheme with focus on declarations rather than statements
 
 </details>
 
