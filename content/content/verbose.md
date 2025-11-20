@@ -20,10 +20,10 @@ description: Random facts about me. Don't waste your time...
 **Age:** <a id="real-age" class="internal" href="/content/birthdays" style="
 font-weight: bold; text-align: center; display: inline-block; width: 125px;
 vertical-align: middle;"></a> y.o.
-<strong style="vertical-align: middle;">Favority Color:</strong> <span id="hex-age"
-style="vertical-align: middle;"></span> <span id="hex-square" style="display:
-inline-block; width: 15px; height: 15px; border-radius: 4px; vertical-align:
-middle; background: var(--secondary);"></span>
+<strong style="vertical-align: middle;">Favorite Color:</strong> <span
+id="hex-age" style="vertical-align: middle;"></span> <span id="hex-square"
+style="display: inline-block; width: 15px; height: 15px; border-radius: 4px;
+vertical-align: middle; background: var(--secondary);"></span>
 **Height:** 6'3" / 192cm
 **Weigth:** 165lbs / 75kg
 **Martial Status:** Happily Married
