@@ -14,18 +14,18 @@ description: Random facts about me. Don't waste your time...
 **Full Name:** Alexander Sokolinskiy / Александр Соколинский
 **Preferred Name:** Alex / Алекс
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
-**Age:** <a id="hex-age" class="internal" href="/birthdays" style="
-    font-weight: bold;
-    text-align: center;
-    display: inline-block;
-    width: 125px;
-"><noscript>20.12.2003</noscript></a>
-**Height:** 6'3" / 192cm
-**Weigth:** 165lbs / 75kg
 **Company**: Scientific Programming Center
-**Martial Status:** Happily Married
 **City:** Moscow, Russia
 **Timezone:** UTC+3
+**Age:** <a id="hex-age" class="internal" href="/content/birthdays" style="
+font-weight: bold; text-align: center; display: inline-block; width: 125px;
+vertical-align: middle;"><noscript>20.12.2003</noscript></a>
+<b style="vertical-align: middle;">Favorite Color:</b> <span id="hex-square"
+style="display: inline-block; width: 15px; height: 15px; border-radius: 4px;
+vertical-align: middle;"></span>
+**Height:** 6'3" / 192cm
+**Weigth:** 165lbs / 75kg
+**Martial Status:** Happily Married
 **Neovim Config**: [y9san9.nvim](https://github.com/y9san9/y9san9.nvim)
 **Bicycles:** Cannondale Topstone 3, Shultz Hopper XL
 **Favorite Tea:** Tieguanyin

@@ -12,12 +12,9 @@ socialImage: og-image.png
 
 **Full Name:** Alexander Sokolinskiy / Александр Соколинский
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
-**Age:** <a id="hex-age" class="internal" href="/content/birthdays" style="
-    font-weight: bold;
-    text-align: center;
-    display: inline-block;
-    width: 125px;
-"><noscript>20.12.2003</noscript></a>
+**Age:** <a id="real-age" class="internal" href="/content/birthdays" style="
+font-weight: bold; text-align: center; display: inline-block; width: 120px;
+vertical-align: middle;"><noscript>20.12.2003</noscript></a>
 **Verbose:** [[verbose|link]]
 
 ## Bio
