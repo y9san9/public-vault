@@ -14,7 +14,7 @@ socialImage: og-image.png
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
 **Age:** <a id="real-age" class="internal" href="/content/birthdays" style="
 font-weight: bold; text-align: center; display: inline-block; width: 120px;
-vertical-align: middle;"><noscript>20.12.2003</noscript></a>
+vertical-align: middle;"></a> y.o.
 **Verbose:** [[verbose|link]]
 
 ## Bio

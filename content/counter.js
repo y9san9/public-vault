@@ -17,11 +17,11 @@ function updateAge() {
     const b = parseInt(colorHex.substr(4, 2), 16) / 255;
     const luminance = 0.299 * r + 0.587 * g + 0.114 * b;
 
-    if (hexElement) {
-        hexElement.textContent = '0x' + ageInHex;
-    }
     if (realElement) {
-        realElement.textContent = `${Math.floor(ageInYears)} years old`
+        realElement.textContent = ageInYears.toString().substring(0, 12).padEnd(12, '0');
+    }
+    if (hexElement) {
+        hexElement.textContent = '#' + colorHex;
     }
     if (hexSquare) {
         hexSquare.style.backgroundColor = '#' + colorHex;
@@ -43,30 +43,16 @@ function stopCounter() {
 }
 
 function showBirthday() {
-    const hexElement = document.getElementById('hex-age');
     const realElement = document.getElementById('real-age');
 
-    if (hexElement) {
-        hexElement.textContent = '20.12.2003';
-    }
     if (realElement) {
         realElement.textContent = '20.12.2003';
     }
 }
 
 function initializeCounter() {
-    const hexElement = document.getElementById('hex-age');
     const realElement = document.getElementById('real-age');
 
-    if (hexElement) {
-        hexElement.addEventListener('mouseenter', function() {
-            stopCounter();
-            showBirthday();
-        });
-        hexElement.addEventListener('mouseleave', function() {
-            startCounter();
-        });
-    }
     if (realElement) {
         realElement.addEventListener('mouseenter', function() {
             stopCounter();
