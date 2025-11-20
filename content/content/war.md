@@ -1,6 +1,8 @@
 ---
+title: West Approach to Russia was a Mistake
 description: Media hop on the trend and start fighting against Russia as well, but this time in information warfare. This is where Western strategy went wrong.
 ---
+
 # West Approach to Russia was a Mistake
 
 > [!warning] Disclaimer
@@ -10,7 +12,7 @@ The story begins with Russian soldiers entering Ukraine. Almost immediately, Eur
 
 All the media need you to feel more emotions. That way, you will probably spread more of their information, and they will get more views. They don't get paid for truth and rationality but for the views counter instead. Therefore, they tend to exaggerate and shift your focus.
 
-They didn't need to tell you the difference between the Russian government and the Russian people. You are always being told what evil Russia is. And nothing about Russian people assuming they are part of the evil. Or even worse, some media explicitly blame the Russian people for decisions made by the government. 
+They didn't need to tell you the difference between the Russian government and the Russian people. You are always being told what evil Russia is. And nothing about Russian people assuming they are part of the evil. Or even worse, some media explicitly blame the Russian people for decisions made by the government.
 
 This strategy is understandable. Or, the absence of strategy is understandable, I should say. If you fight on that battlefield against Russia, there is an easy way to make the Russian people responsible for the decisions of their government. Intuitively, this seems right. And if you think emotionally, you won't ever question it.
 
@@ -26,10 +28,10 @@ What do you think the majority of the people will do? Investigate and fact-check
 
 What's interesting is that there is a consensus in Russia that on TV you only see propaganda. You can find several people who do believe in TV, but it's much less than you might expect. And all those people who don't believe TV wouldn't accept that narrative that they are terrorists, so they just assume you can't trust anyone.
 
-The more effective way would be to make Russians victims of the regime much like Ukrainians. Emotionally, this might seem controversial. Russians don't have their houses destroyed, or families killed (even though they do, but on a lesser scale). Emotionally it seems that Russians don't suffer enough to be victims. 
+The more effective way would be to make Russians victims of the regime much like Ukrainians. Emotionally, this might seem controversial. Russians don't have their houses destroyed, or families killed (even though they do, but on a lesser scale). Emotionally it seems that Russians don't suffer enough to be victims.
 
 Yet logically it would be more effective. If everyone understands that there is propaganda on TV, the West could be as friendly to Russians as it is to Ukrainians and get consensus and support from Russians as well. Including, but not limited to, more financial support.
 
-What we get instead is the absence of strategy and aggression addressed to Russia (including the Russian people) that helps the Russian government to make people polarized. Thank you, West. 
+What we get instead is the absence of strategy and aggression addressed to Russia (including the Russian people) that helps the Russian government to make people polarized. Thank you, West.
 
 From Russia with love.
