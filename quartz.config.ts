@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "y9san9",
-    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",

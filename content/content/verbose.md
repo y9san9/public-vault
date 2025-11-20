@@ -14,7 +14,12 @@ description: Random facts about me. Don't waste your time...
 **Full Name:** Alexander Sokolinskiy / Александр Соколинский
 **Preferred Name:** Alex / Алекс
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
-**Birth date:** 20.12.2003
+**Age:** <a id="hex-age" class="internal" href="/birthdays" style="
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    width: 125px;
+"><noscript>20.12.2003</noscript></a>
 **Height:** 6'3" / 192cm
 **Weigth:** 165lbs / 75kg
 **Company**: Scientific Programming Center
@@ -121,3 +126,4 @@ description: Random facts about me. Don't waste your time...
 
 I stand for free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views. I believe that someday it will stop being my dream and become a reality.
 
+<script src="../counter.js"></script>
