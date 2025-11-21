@@ -17,8 +17,9 @@ description: Random facts about me. Don't waste your time...
 **Company**: Scientific Programming Center
 **City:** Moscow, Russia
 **Timezone:** UTC+3
-**Age:** <a id="real-age" class="internal" href="/content/birthdays" style=" font-weight: bold; text-align: center; display: inline-block; width: 125px; vertical-align: middle;"></a> y.o.
+**Age:** <a id="real-age" class="internal" href="/content/birthdays" style=" font-weight: bold; text-align: center; display: inline-block; width: 140px; vertical-align: middle;"></a> y.o.
 <strong style="vertical-align: middle;">Favorite Color:</strong> <span id="hex-age" style="vertical-align: middle;"></span> <span id="hex-square" style="display: inline-block; width: 15px; height: 15px; border-radius: 4px; vertical-align: middle; background: var(--secondary);"></span>
+**Death Chance:** <span id="mortality-counter"></span>
 **Height:** 6'3" / 192cm
 **Weigth:** 165lbs / 75kg
 **Sign**: <span id="astro-box" style="display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</span>

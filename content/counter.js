@@ -67,3 +67,35 @@ function initializeCounter() {
 }
 
 initializeCounter();
+
+const lambda = 0.0007;    // age-independent hazard (tweak for more/less baseline risk)
+const alpha  = 0.00008;   // Gompertz scale (tweak to raise/lower age-dep risk)
+const beta   = 0.095;     // Gompertz exponent (empirical ~0.085 is common).
+
+function annualProbFromHazardAtAge(ageYears) {
+    // hazard μ(x) = lambda + alpha * e^{beta * x}
+    // integral_{x}^{x+1} μ(t) dt = lambda*1 + (alpha/beta) * (e^{beta*(x+1)} - e^{beta*x})
+    const exp_x    = Math.exp(beta * ageYears);
+    const exp_x1   = Math.exp(beta * (ageYears + 1));
+    const integral = lambda + (alpha / beta) * (exp_x1 - exp_x); // integral over 1 year
+    const p        = 1 - Math.exp(-integral); // one-year death probability
+    return p; // value in [0,1]
+}
+
+function updateMortality() {
+    const mortalityCounter = document.getElementById('mortality-counter');
+    if (!mortalityCounter) return;
+
+    const now = new Date();
+    const ageInYears = (now - birthDate) / (1000 * 60 * 60 * 24 * 365.25);
+
+    // compute one-year probability using Gompertz-Makeham
+    const p = annualProbFromHazardAtAge(ageInYears);
+
+    // show percentage with a reasonable number of decimals for readability
+    const percent = (p * 100);
+    mortalityCounter.textContent = `${percent.toFixed(11)}% to die this year`;
+}
+
+setInterval(updateMortality, 50);
+updateMortality();
