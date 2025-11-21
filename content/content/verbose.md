@@ -22,7 +22,7 @@ description: Random facts about me. Don't waste your time...
 **Death Chance:** <span id="mortality-counter"></span>
 **Height:** 6'3" / 192cm
 **Weigth:** 165lbs / 75kg
-**Sign**: <span id="astro-box" style="display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</span>
+**Sign**: <span id="astro-box" style="display: inline-block; width: 120px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</span>
 **Eye Color:** brown & green
 **Martial Status**: Happily Married
 **Neovim Config**: [y9san9.nvim](https://github.com/y9san9/y9san9.nvim)
