@@ -94,7 +94,7 @@ function updateMortality() {
 
     // show percentage with a reasonable number of decimals for readability
     const percent = (p * 100);
-    mortalityCounter.textContent = `${percent.toFixed(11)}% to die this year`;
+    mortalityCounter.textContent = `${percent.toFixed(11)}% per year`;
 }
 
 setInterval(updateMortality, 50);
