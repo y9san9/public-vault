@@ -17,23 +17,26 @@ description: Random facts about me. Don't waste your time...
 **Company**: Scientific Programming Center
 **City:** Moscow, Russia
 **Timezone:** UTC+3
-**Age:** <a id="real-age" class="internal" href="/content/birthdays" style="
-font-weight: bold; text-align: center; display: inline-block; width: 125px;
-vertical-align: middle;"></a> y.o.
-<strong style="vertical-align: middle;">Favorite Color:</strong> <span
-id="hex-age" style="vertical-align: middle;"></span> <span id="hex-square"
-style="display: inline-block; width: 15px; height: 15px; border-radius: 4px;
-vertical-align: middle; background: var(--secondary);"></span>
+**Age:** <a id="real-age" class="internal" href="/content/birthdays" style=" font-weight: bold; text-align: center; display: inline-block; width: 125px; vertical-align: middle;"></a> y.o.
+<strong style="vertical-align: middle;">Favorite Color:</strong> <span id="hex-age" style="vertical-align: middle;"></span> <span id="hex-square" style="display: inline-block; width: 15px; height: 15px; border-radius: 4px; vertical-align: middle; background: var(--secondary);"></span>
 **Height:** 6'3" / 192cm
 **Weigth:** 165lbs / 75kg
-**Martial Status:** Happily Married
+**Sign**: <span id="astro-box" style="display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</span>
+**Eye Color:** brown & green
+**Martial Status**: Happily Married
 **Neovim Config**: [y9san9.nvim](https://github.com/y9san9/y9san9.nvim)
-**Bicycles:** Cannondale Topstone 3, Shultz Hopper XL
-**Favorite Tea:** Tieguanyin
+**Bicycles**: Cannondale Topstone 3, Shultz Hopper XL
+**Favorite Tea**: Tieguanyin
+**Bad Habits**: no smoking (since 2021), no drinking (since 2025), no drugs (since 2019), no killing (ever)
 **Mafia Nickname:** Mr. Juice / г-н Сок
 **T-Shirt Size**: XXXL
 **Clash Royale Tag**: [#​PJJL8JYR](https://royaleapi.com/player/PJJL8JYR)
+**Favorite Pizza in Dodo**: 4 seasons
 **YouTube**: [@y9san9](https://youtube.com/@y9san9)
+**Devices**: MacBook Air M4, MacBook Pro M1, Google Pixel 9 Pro, Google Pixel 8a, iPhone 12, Huawei P20 Pro, Xiaomi Mi Band 9, Huawei Watch GT6 Pro, Galaxy Watch4 Classic
+**Favorite Subject in School**: Biology
+**Google Drive**: <span style="display: inline-flex; align-items: center; gap: 12px; border-radius: 8px; background: var(--background); vertical-align: middle;"> <span style="white-space: nowrap;"> <span style="display: block;">38% used</span>  </span> <span style="display: flex; align-items: center; gap: 8px; white-space: nowrap;"> <span style="display: block; width: 80px; height: 6px; background: #eee; border-radius: 3px; overflow: hidden;"> <span style="display: block; width: 38%; height: 100%; background: #4285F4; border-radius: 3px;"></span> </span> <span style="display: block">15 GB / 40 GB</span> </span> </span>
+**Karate**: 1 kyū (6 years)
 
 ## Public Activities
 
@@ -128,3 +131,4 @@ vertical-align: middle; background: var(--secondary);"></span>
 I stand for free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views. I believe that someday it will stop being my dream and become a reality.
 
 <script src="../counter.js"></script>
+<script src="../astro-box.js"></script>
