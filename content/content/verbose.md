@@ -125,20 +125,20 @@ alias: verbose
 
 ## Languages Tier List
 
-🇺🇸 English (Fluent): _everybody speaks that_
-🇷🇺 Russian (Native): _mother tongue_
-🇧🇾 Belarusian (Limited): _friends_
-🇺🇦 Ukrainian (Limited): _more friends!_
-🇰🇷 Korean (Limited): _doramas?_
+🇺🇸 **English** (Fluent): _Everybody speaks that_
+🇷🇺 **Russian** (Native): _Mother tongue_
+🇧🇾 **Belarusian** (Limited): _Friends_
+🇺🇦 **Ukrainian** (Limited): _More friends!_
+🇰🇷 **Korean** (Limited): _Doramas?_
 
 ### Wish List
 
-🇨🇳 Mandarin: _interesting culture and a lot of people_
-🇮🇱 Hebrew: _one of the ancient-est langs_
-🇸🇦 Arabic: _similar to hebrew but more popular_
-🇬🇷 Greek: _I want to speak in math formulas_
-🇳🇴 Norwegian: _english before it was mainstream_
-🇳🇱 Dutch: _if german was english or vice verca_
+🇨🇳 **Mandarin**: _Interesting culture and a lot of people_
+🇮🇱 **Hebrew**: _One of the ancient-est langs_
+🇸🇦 **Arabic**: _Similar to hebrew but more popular_
+🇬🇷 **Greek**: _I want to speak in math formulas_
+🇳🇴 **Norwegian**: _English before it was mainstream_
+🇳🇱 **Dutch**: _If german was english or vice verca_
 
 ## Political Views
 
