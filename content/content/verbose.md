@@ -84,7 +84,7 @@ alias: verbose
 - [calkt](https://github.com/y9san9/calkt) – Kotlin library to calculate everything
 - [wdater](https://github.com/meetacy/wdater) - Database migrations for Exposed
 
-### ⚪ Graveyard
+### 🔵 Graveyard
 
 - [Seed](https://github.com/seed-ecosystem) – Messaging app with no authentication
 - [Meetacy](https://github.com/meetacy) – Superapp about meetings
