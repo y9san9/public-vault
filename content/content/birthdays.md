@@ -1,6 +1,7 @@
 ---
 title: Please, stop caring about my birthday
 description: Since I don't care about yours...
+alias: birthdays
 ---
 
 # Please, stop caring about my birthday

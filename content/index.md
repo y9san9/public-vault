@@ -13,7 +13,7 @@ socialImage: og-image.png
 **Full Name:** Alexander Sokolinskiy / Александр Соколинский
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
 **Age:** <a id="real-age" class="internal" href="/content/birthdays" style="
-font-weight: bold; text-align: center; display: inline-block; width: 120px;
+font-weight: bold; text-align: center; display: inline-block; width: 100px;
 vertical-align: middle;"></a> y.o.
 **Verbose:** [[verbose|link]]
 
@@ -28,7 +28,6 @@ Feel free to reach me:
 ![[inline_telegram_logo.png|13]] **Telegram**: [@y9san9](https://t.me/y9san9)
 ![[inline_gmail_logo.png|13]] **Email**: y9san9@gmail.com
 ![[inline_github_logo.png|13]] **GitHub**: [@y9san9](https://github.com/y9san9)
-![[inline_duolingo_logo.svg|13]] **Duolingo**: [@y9san9](https://duolingo.com/profile/y9san9)
 
 In any of these languages:
 
