@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
-      // cdnCaching: true,
+      cdnCaching: true,
       typography: {
         header: "Iosevka",
         body: "Iosevka",
