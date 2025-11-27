@@ -27,7 +27,7 @@ description: |
 
 ## Preparation
 
-My third real trip. And it's already Moscow -> Minsk. I really didn't want to wait, did I? This trip was half a year ago, so I am writing from what I can remember. I hope not much details will be lost and you will get the vibes.
+My third real trip. And it's already Moscow -> Minsk. At least I bought a good bicycle for that and didn't use my old mountain bike. I really didn't want to wait, did I? This trip was half a year ago, so I am writing from what I can remember. I hope not much details will be lost and you will get the vibes.
 
 So, how will you ride such a distance? It's 750 km. That's an interesting question. For the first time of our trips we decided to do some planning. We bought energy gels and bars, estimated how much water should we drink per hour and then after everything was bought we headed from Moscow. Big thanks to nikesha (my wife) for actually planning our food with Matthew and Chat GPT.
 
