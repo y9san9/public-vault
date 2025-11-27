@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Aλex Sokol
 
-My passion is networking with people. I like to work on collaboratibe projects, meet new people, chat and share knowledge. I make money with programming, but I have other interests too. Anyways, on that website you can find some random notes you never asked for. [[verbose|More useless info...]]
+My passion is networking with people. I like to work on collaboratibe projects, meet new people, chat and share knowledge. I make money with programming, but I have other interests too. Anyways, on that website you can find some random notes you never asked for. [[verbose.md|More useless info...]]
 
 ## Contacts
 

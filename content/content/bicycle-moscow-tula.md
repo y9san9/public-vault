@@ -1,3 +1,8 @@
+---
+alias: tula
+title: Bicycle Trip. Moscow -> Tula. 350 km
+---
+
 ![[bicycle_trip_moscow_tula.png]]
 
 It was kinda adventure. The route itself should've been only 200km long (similar to our [[Bicycle Trip. Moscow -> Tver. 200 km|first]] trip). But we decided to risk and ride on highway road (which is forbidden to ride on bicycle). And we were pulled over and couldn't ride highway anymore.

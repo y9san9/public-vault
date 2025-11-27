@@ -1,3 +1,8 @@
+---
+alias: tver
+title: Bicycle Trip. Moscow -> Tver. 200 km
+---
+
 ![[bicycle_trip_moscow_tver.png]]
 
 This was in my first season of riding a bike. Me and my friend Matthew just spontaneously decided to ride from one city to another and have chosen Tver to be our target. I can't say I remember a lot of things, but we did it in 12 hours or so. And we were very tired. Something about 4k calories lost even though we ate a lot of fast-food on the way.
