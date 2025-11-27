@@ -121,6 +121,7 @@ alias: verbose
 ![[inline_github_logo.png|13]] **GitHub:** [@y9san9](https://github.com/y9san9) _we can collab maybe_
 ![[inline_duolingo_logo.svg|13]] **Duolingo**: [@y9san9](https://duolingo.com/profile/y9san9) _I learn random languages_
 ![[inline_youtube_logo.svg|13]] **YouTube:** [@y9san9](https://youtube.com/@y9san9) _my junkyard for videos_
+![[inline_obsidian_logo.png|13]] **Blog:** [[content]]
 ![[inline_rss_badge.svg|35]] **Feed:** [index.xml](index.xml) _anyone still uses this?_
 
 ## Languages Tier List

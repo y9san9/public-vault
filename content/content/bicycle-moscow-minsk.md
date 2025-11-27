@@ -165,8 +165,8 @@ Now we got a huge morale boost. Tomorrow we are going to cross the border of Rus
 
 We found an hotel right after the border. I don't know how it works in your country, dear reader, but in my country hotels have this shitty system where you can check in at specific time (usually 2pm-5pm) and then you must leave before the specific time (usually before 12pm). I was very surprised that in Belarus they have check-ins 24-hours and if you checked in at 1am then you don't need to leave until 1am of the next day. If I am not mistaken it's some kind of a law there.
 
-| Pic: Raining                                           | Pic: After Raining                                    |
-| ------------------------------------------------------ | ----------------------------------------------------- |
+| Pic: Raining                                           | Pic: After Rain                                           |
+| ------------------------------------------------------ | --------------------------------------------------------- |
 | ![[bicycle_trip_moscow_minsk_day_4_raining.png|200]]  | ![[bicycle_trip_moscow_minsk_day_4_after_raining.png|200]] |
 
 **9pm.** While we were in Smolensk we bought different stuff to be able to ride at night. That includes different flashlights everywhere for me and Matthew. So even though it was dark, we were very visible and it felt safe. Moreover, we went on a road where there was almost no cars. I love such road and the vibes they give. Fresh air, no one around, just some strange guys riding on bicycles at night.
@@ -188,7 +188,7 @@ Somehow we did it to the highway where we didn't need this light anymore. The ro
 
 **1:30am.** We are at some random gas station, we want to sleep so much. I see a bus that I used before to get from Moscow to Minsk. This bus drives about 10 hours and makes a single stop on that exact gas station where we happened to be. It remembered me how easy it was for me to get to Minsk before...
 
-**2:20am.** We crossed the border! I personally thought it might be a fun conversation with border patrol, but it wasn't. Neither side (Russian or Belarusian) was impressed. They say it's a common route for bicyclists. One of them joked that since we were crossing the border at night we might smuggling some drugs or stuff... Another told us that he met a guy that was going on foot from Nizhniy Novgoroz to Minsk. That's 120 km!!! On foot!!! ~He is the one smuggling drugs if anyone...~
+**2:20am.** We crossed the border! I personally thought it might be a fun conversation with border patrol, but it wasn't. Neither side (Russian or Belarusian) was impressed. They say it's a common route for bicyclists. One of them joked that since we were crossing the border at night we might smuggling some drugs or stuff... Another told us that he met a guy that was going on foot from Nizhniy Novgoroz to Minsk. That's 1200 km!!! On foot!!! ~He is the one smuggling drugs if anything...~
 
 ![[bicycle_trip_moscow_minsk_border.jpg]]
 _Pic: We asked random dude Bohdan to make a photo of us. He asked us to follow his tiktok account for that_
