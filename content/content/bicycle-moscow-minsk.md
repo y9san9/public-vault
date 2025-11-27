@@ -219,5 +219,5 @@ It turned out that the most productive day was the least interesting. Just cycli
 
 ## Conclusion
 
-It was one of the best moments of my life. If everything is gray and boring... Just go to a bicycle trip. I got lighter 5 kg for 5 days... Even though we ate very many junk food and energy gels. We did that without any prior professional experience and it was so fun. I am definitely going to repeat that (probably Moscow -> St. Petersburg trip). As of now (winter 2025) I miss such bicycle experiences much. I started just 2 years ago and already have such cool trips. There are not many, but I am going to work on that. Stay tuned as more posts are going to be here.
+It was one of the best moments in my life. If everything is gray and boring... Just go to a bicycle trip. I got lighter 5 kg for 5 days... Even though we ate very many junk food and energy gels. We did that without any prior professional experience and it was so fun. I am definitely going to repeat that (probably Moscow -> St. Petersburg trip). As of now (winter 2025) I miss such bicycle experiences much. I started just 2 years ago and already have such cool trips. There are not many, but I am going to work on that. Stay tuned as more posts are going to be here.
 
