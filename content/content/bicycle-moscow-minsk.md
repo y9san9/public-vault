@@ -2,14 +2,14 @@
 alias: minsk
 title: Bicycle Trip. Moscow -> Minsk. 750 km
 description: |
-    **Highlights:**
-    - **Total distance**: 765 km
-    - **Calendar time**: 6 days
-    - **Riding time**: ~42 hours
-    - **Calories lost**: 65 000 kcal
-    - **Weight lost**: 5 kg
-    - **Bears mentioned by locals**: yes
-    - **Border guards surprised**: 0
+    Highlights:
+    - Total distance: 765 km
+    - Calendar time: 6 days
+    - Riding time: ~42 hours
+    - Calories lost: 65 000 kcal
+    - Weight lost: 5 kg
+    - Bears mentioned by locals: yes
+    - Border guards surprised: 0
 ---
 
 
@@ -46,7 +46,7 @@ _Pic: Preparation (foods, energy bars, etc.)_
 
 Anyways, at first this was not actually a problem. Since right to the road where cars were going 110 km/h there was another road that was completed but not opened yet. Perfect asphalt, almost like its built for bicycles. For a few kilometers... Then the completed part of the road ended and we got to a construction site where workers were doing their stuff. We asked for the west since they worked at night but none of them had it. We were ready to buy it, but no success. They didn't have the vest.
 
-**9pm.** We thought we are cooked. But another gift from a universe! Traffic jam. It's a big intercity road and yeah in Russia you have traffic jams everywhere. We consider that as a gift since it's the only way we can safely ride on bicycle without anything reflective. All cars are at stop and we are just passing them one-by-one. That way we travelled another few hours until the jam ended.
+**9pm.** We thought we are cooked. But another gift from universe! Traffic jam. It's a big intercity road and yeah in Russia you have traffic jams everywhere. We consider that as a gift since it's the only way we can safely ride on bicycle without anything reflective. All cars are at stop and we are just passing them one-by-one. That way we travelled another few hours until the jam ended.
 
 Not to mention, while passing gas stations we always went in and asked if any of the drivers have the vest. They had to have it by the law but none of them had. Or none of them wanted to give it to us even though we explained situation and were ready to pay. Anyways, after traffic jam ended we had made a choice that we are riding until the next gas station and sleeping there. Riding in the dark was very unsafe.
 

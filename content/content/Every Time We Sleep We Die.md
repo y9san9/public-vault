@@ -1,3 +1,7 @@
+---
+alias: sleep
+---
+
 # Every Time We Sleep We Die
 
 What is "I"? Clearly, rebuilding one's brain to be atomically equal will not transfer one's consciousness to the second body. There will be a split: two different consciousnesses.
