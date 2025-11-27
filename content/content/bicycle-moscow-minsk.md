@@ -2,7 +2,7 @@
 alias: minsk
 title: Bicycle Trip. Moscow -> Minsk. 750 km
 description: |
-    **Highlights**
+    **Highlights:**
     - **Total distance**: 765 km
     - **Calendar time**: 6 days
     - **Riding time**: ~42 hours
