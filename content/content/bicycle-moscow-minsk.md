@@ -1,9 +1,17 @@
 ---
 alias: minsk
 title: Bicycle Trip. Moscow -> Minsk. 750 km
+description: |
+    **Highlights**
+    - **Total distance**: 765 km
+    - **Calendar time**: 6 days
+    - **Riding time**: ~42 hours
+    - **Calories lost**: 65 000 kcal
+    - **Weight lost**: 5 kg
+    - **Bears mentioned by locals**: yes
+    - **Border guards surprised**: 0
 ---
 
-_Transcribed from Telegram Channel: https://t.me/+1Rohw7tw9yYwYWZi_
 
 ![[bicycle_trip_moscow_minsk.jpg]]
 
