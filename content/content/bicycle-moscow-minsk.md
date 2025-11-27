@@ -6,7 +6,7 @@ description: |
     - Total distance: 765 km
     - Calendar time: 6 days
     - Riding time: ~42 hours
-    - Calories lost: 65 000 kcal
+    - Calories lost: 25 000 kcal
     - Weight lost: 5 kg
     - Bears mentioned by locals: yes
     - Border guards surprised: 0
@@ -20,7 +20,7 @@ description: |
 - **Total distance**: 765 km
 - **Calendar time**: 6 days
 - **Riding time**: ~42 hours
-- **Calories lost**: 65 000 kcal
+- **Calories lost**: 25 000 kcal
 - **Weight lost**: 5 kg
 - **Bears mentioned by locals**: yes
 - **Border guards surprised**: 0
