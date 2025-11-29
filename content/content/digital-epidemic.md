@@ -28,7 +28,9 @@ So this thing may eat somewhere from 50% to 100% of your free time. Its that tim
 
 ## It's happening now!
 
-Average screen time in the world is 7 hours a day. That's average, guys... Not some max time. Of course a lot of you will work and that's also screen time. But average screen time for IT people is around 10-13 hours, so the claim still holds. We can argue about my methods of calculation and whether this is the actual average or not, but I think you agree that a certain group of people drastically reduced their free time. And this group of people is not small.
+Average screen time in the world is 7 hours a day. That's average, guys... Not some max time. Huge part of that time is _dead time_: it doesn’t build memories, skills, relationships, or meaningful experiences. Just TikToks and stuff... That is why I made that analogy with sleep (but sleep _is actually_ useful).
+
+Of course a lot of you will work and that's also screen time. But average screen time for IT people is around 10-13 hours, so the claim still holds. We can argue about my methods of calculation and whether this is the actual average or not, but I think you agree that a certain group of people drastically reduced their free time. And this group of people is not small.
 
 I believe that we have this epidemic right now. Almost everyone in my bubble is a subject to this global change (though I agree it's just my bubble). I also must mention that the joy that devices give us demotivates doing real stuff. But it's already getting into the area of productivity bullshit, so I am not going to go deeper with this.
 
@@ -36,9 +38,11 @@ I believe that we have this epidemic right now. Almost everyone in my bubble is 
 
 And you don't need. Using digital infrastructure became very important nowadays. And a lot of will argue that digital stuff make information accessible, learning more easy and connects people all over the world. I agree. For that reason I can't stop using YouTube. It has a lot of learning stuff _(at least for me)_. I really love using technologies and I think I am so lucky to be born at that time.
 
+Just to be clear: I don't label all screen time as dead time. And you should not. My screen time used to be 12 hours a day and that included work & study. Nowaways the average is 6 hours: just 2 times less, you might say. But my _dead time_ stripped from 8 hours a day to 2 hours (which is 4 times less) and this change didn't affect useful scenarios of devices usage.
+
 ## So, what do I do?
 
-I am not going to say you that, because I don't know what is going to work for you. But the goal of this article is to make it clear: information = drugs. For me it is not a metaphor. I really do believe that we are having an epidemic where everyone started using drugs and doesn't understand it just yet. Much like with cocaine (remember, Coca-Cola?) and other things when they just got discovered.
+I am not going to say you that, because I don't know what is going to work for you. But the goal of this article is to make it clear: devices and information = drugs. For me it is not a metaphor. I really do believe that we are having an epidemic where everyone started using drugs and doesn't understand it just yet. Much like with cocaine (remember, Coca-Cola?) and other things when they just got discovered.
 
 It doesn't mean that information is bad just like drugs are not. There are medicine drugs after all. You need to understand all the consequences and select the best strategy that works for you. I am fighting with my addiction to the Internet for about 5 years. And I still can't say that I got over it (I see a good progress though).
 
