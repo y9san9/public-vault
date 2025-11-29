@@ -38,7 +38,7 @@ And you don't need. Using digital infrastructure became very important nowadays.
 
 ## So, what do I do?
 
-I am not going to say you that, because I don't know what is going to work for you. But the goal of this article is to make it clear: information = drugs. For me it is not a metaphor. I really do believe that we are having an epidemic where everyone started using drugs and doesn't understand it just yet. Much like with cocain and other things when they just got discovered.
+I am not going to say you that, because I don't know what is going to work for you. But the goal of this article is to make it clear: information = drugs. For me it is not a metaphor. I really do believe that we are having an epidemic where everyone started using drugs and doesn't understand it just yet. Much like with cocaine (remember, Coca-Cola?) and other things when they just got discovered.
 
 It doesn't mean that information is bad just like drugs are not. There are medicine drugs after all. You need to understand all the consequences and select the best strategy that works for you. I am fighting with my addiction to the Internet for about 5 years. And I still can't say that I got over it (I see a good progress though).
 
