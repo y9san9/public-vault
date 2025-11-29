@@ -3,8 +3,8 @@ alias: digital
 title: Digital Epidemic
 description: |
     We have no time left:
-    • 6 hours: base sleep
-    • +8 hours: average screen time = 14 hours
+    • 7 hours: base sleep
+    • +7 hours: average screen time = 14 hours
     • +2 hours: commuting = 16 hours
     • +8 hours: work = 24 hours
 ---
@@ -15,22 +15,22 @@ Hello, fellow reader. I want to warn you that this topic is controversial and sa
 
 ## Imagine
 
-First, I am going to elaborate a little about the 'Epidemic' part. Imagine a new desease got discovered, lets say Covid-2077. There are no symptoms: no fever, no sneezing, no pain anywhere. Except one: you start to sleep 8 hours more. So, if you sleep 6 hours a day, it adds up to 14 hours of sleep. You got ~50% less time with activity. Most of you probably _should_ sleep more, so it is even worse.
+First, I am going to elaborate a little about the 'Epidemic' part. Imagine a new desease got discovered, lets say Covid-2077. There are no symptoms: no fever, no sneezing, no pain anywhere. Except one: you start to sleep 7 hours more. So, if you sleep 7 hours a day, it adds up to 14 hours of sleep. You got ~40% less time with activity. Most of you probably _should_ sleep more, so it is even worse.
 
-50% less sleep means 50% less time to live. But it gets worse. We have to do our jobs. Optimistic case is that is takes 4 hours a day for you and after doing the math Covid-2077 takes 60% of your free time. But for some people... I used to work at big tech company... You have to drive 1 hour to the workplace, then 8 hours workday, then 1 hour back. I don't even count lunch that may be an additional hour not included in the workday. For such people this desease will take ALL their free time. Really, just see:
+40% less time with activity means 40% less time to live. But it gets worse. We have to do our jobs. Optimistic case is that the work takes 4 hours a day for you, and after doing the math Covid-2077 takes 50% of your free time. But for some people... I used to work at big tech company... You have to drive 1 hour to the workplace, then 8 hours workday, then 1 hour back. I don't even count lunch time that may be an additional hour (and not included in the workday). For such people this desease will take ALL their free time. Really, just see:
 
-- 6 hours: base sleep
-- +8 hours: increased sleep due to the imaginary desease _= 14 hours_
+- 7 hours: base sleep
+- +7 hours: increased sleep due to the imaginary desease = _14 hours_
 - +2 hours: commuting = _16 hours_
 - +8 hours: work = _24 hours_
 
-So you this thing may eat somewhere from 60% to 100% of your free time. Its that time where you truly living your life. And maybe it doesn't seem very dramatic when you think about it in terms of 24-hours, but you can convert that to the years of living. If you remove 6 hours a day for sleep and 4 hours for work, you got average amount of conscious living somewhere about 40-50 years. Again, you might remove more if you sleep or work more. This desease is going to decrease this conscious lifetime form 40-50 years to 0-30 years. I wouldn't want to get one!
+So this thing may eat somewhere from 50% to 100% of your free time. Its that time where you truly living your life. And maybe it doesn't seem very dramatic when you think about it in terms of 24-hours, but you can convert that in the years of living. If you remove 7 hours a day for sleep and 4 hours for work, you got average amount of conscious living somewhere around 40-50 years. Again, you might remove more if you sleep or work more. This desease is going to decrease this conscious lifetime from 40-50 years to 0-30 years. I wouldn't want to get one!
 
 ## It's happening now!
 
-Average screen time in the world is 10+ hours. That's average, guys... Not some max time. Of course a lot of you will work and that's also screen time. But those of you who work in IT may often get distracted, so I think counting 8 hours in the imaginary example is quite right to the actual average data. We can argue about my methods of calculation and we can argue whether this is average or not, but I think you agree that a certain group of people drastically reduced their free time.
+Average screen time in the world is 7 hours a day. That's average, guys... Not some max time. Of course a lot of you will work and that's also screen time. But average screen time for IT people is around 10-13 hours, so the claim still holds. We can argue about my methods of calculation and whether this is the actual average or not, but I think you agree that a certain group of people drastically reduced their free time. And this group of people is not small.
 
-I believe that we have this epidemic right now. Almost everyone in my bubble is subject to this global change (though I agree it's just my bubble). I also must mention that the joy that devices give us demotivates working. But it's already getting into the area of productivity bullshit, so I am not going to mention this again.
+I believe that we have this epidemic right now. Almost everyone in my bubble is a subject to this global change (though I agree it's just my bubble). I also must mention that the joy that devices give us demotivates doing real stuff. But it's already getting into the area of productivity bullshit, so I am not going to go deeper with this.
 
 ## There is no way you can rollback
 
