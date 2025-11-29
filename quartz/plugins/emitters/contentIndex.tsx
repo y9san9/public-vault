@@ -117,26 +117,6 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             description: file.data.description ?? "",
           })
         }
-        for (const aliasTarget of file.data.aliases ?? []) {
-            const aliasTargetSlug = (
-                isRelativeURL(aliasTarget)
-                    ? path.normalize(path.join(slug, "..", aliasTarget))
-                    : aliasTarget
-            ) as FullSlug
-            linkIndex.set(aliasTargetSlug, {
-                aliasTargetSlug,
-                filePath: file.data.relativePath!,
-                title: file.data.frontmatter?.title!,
-                links: file.data.links ?? [],
-                tags: file.data.frontmatter?.tags ?? [],
-                content: file.data.text ?? "",
-                richContent: opts?.rssFullHtml
-                    ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
-                    : undefined,
-                    date: date,
-                    description: file.data.description ?? "",
-            })
-        }
       }
 
       if (opts?.enableSiteMap) {
