@@ -2,7 +2,7 @@ import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
-import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../../util/path"
+import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug, isRelativeURL } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
@@ -116,6 +116,26 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             date: date,
             description: file.data.description ?? "",
           })
+        }
+        for (const aliasTarget of file.data.aliases ?? []) {
+            const aliasTargetSlug = (
+                isRelativeURL(aliasTarget)
+                    ? path.normalize(path.join(slug, "..", aliasTarget))
+                    : aliasTarget
+            ) as FullSlug
+            linkIndex.set(aliasTargetSlug, {
+                aliasTargetSlug,
+                filePath: file.data.relativePath!,
+                title: file.data.frontmatter?.title!,
+                links: file.data.links ?? [],
+                tags: file.data.frontmatter?.tags ?? [],
+                content: file.data.text ?? "",
+                richContent: opts?.rssFullHtml
+                    ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
+                    : undefined,
+                    date: date,
+                    description: file.data.description ?? "",
+            })
         }
       }
 

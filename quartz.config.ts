@@ -67,7 +67,11 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, enableImageWidth: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({
+          markdownLinkResolution: "shortest",
+          openLinksInNewTab: true,
+          lazyLoad: true,
+      }),
       Plugin.Description(),
       Plugin.HardLineBreaks(),
       Plugin.Latex({ renderEngine: "katex" }),
