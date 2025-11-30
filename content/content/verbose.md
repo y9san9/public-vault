@@ -71,6 +71,7 @@ alias: verbose
 
 - [Friendly](https://github.com/friendly-social) – Make new friends!
 - [Kotlin Meta](https://t.me/kotlinmeta) – Telegram Channel about Kotlin Programming Language
+- [418 I'm a teapot](https://t.me/+EpFXhdJTDB82MGEy) – Chinese Tea Club in Moscow
 - [Phronology](https://phronology.com) – No bullshit wellbeing discipline
 - [[content/|Blog]] – This website where I share random notes with world
 - [y9nika.nvim](https://github.com/y9san9/y9nika.nvim) – Neovim Colorscheme with focus on declarations rather than statements
