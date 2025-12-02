@@ -23,7 +23,7 @@ permalink: verbose
 **Death Chance:** <span id="mortality-counter"></span>
 **Height:** 6'3" / 192cm
 **Weight:** 165lbs / 75kg
-**Sign**: <button id="astro-box" style="background: none; font-family: var(--bodyFont); display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</button>
+**Sign**: <button id="astro-box" style="background: none; font-family: var(--bodyFont); display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♐ Click ♐</button>
 **Eye Color:** brown & green
 **Marital Status**: Happily Married
 **Neovim Config**: [y9san9.nvim](https://github.com/y9san9/y9san9.nvim)
