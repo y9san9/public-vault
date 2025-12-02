@@ -1,5 +1,5 @@
 ---
-alias: bi
+permalnk: bi
 title: Bicycle Trips
 ---
 

@@ -1,5 +1,6 @@
 ---
-alias: kiss
+title: KISS When Writing Notes
+permalink: kiss
 ---
 
 # KISS When Writing Notes

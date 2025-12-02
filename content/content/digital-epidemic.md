@@ -1,5 +1,5 @@
 ---
-alias: digital
+permalink: digital
 title: Digital Epidemic
 description: |
     We have no time left:

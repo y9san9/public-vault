@@ -1,5 +1,5 @@
 ---
-alias: tver
+permalink: tver
 title: Bicycle Trip. Moscow -> Tver. 200 km
 ---
 

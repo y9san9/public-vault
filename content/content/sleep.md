@@ -1,5 +1,6 @@
 ---
-alias: sleep
+permalink: sleep
+title: Every Time We Sleep We Die
 ---
 
 # Every Time We Sleep We Die

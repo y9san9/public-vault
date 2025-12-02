@@ -1,7 +1,7 @@
 ---
 title: Verbose
 description: Random facts about me. Don't waste your time...
-alias: verbose
+permalink: verbose
 ---
 
 # Verbose
@@ -22,14 +22,15 @@ alias: verbose
 <strong style="vertical-align: middle;">Favorite Color:</strong> <span id="hex-age" style="vertical-align: middle;"></span> <span id="hex-square" style="display: inline-block; width: 15px; height: 15px; border-radius: 4px; vertical-align: middle; background: var(--secondary);"></span>
 **Death Chance:** <span id="mortality-counter"></span>
 **Height:** 6'3" / 192cm
-**Weigth:** 165lbs / 75kg
-**Sign**: <span id="astro-box" style="display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</span>
+**Weight:** 165lbs / 75kg
+**Sign**: <button id="astro-box" style="background: none; font-family: var(--bodyFont); display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♑ Click ♑</button>
 **Eye Color:** brown & green
-**Martial Status**: Happily Married
+**Marital Status**: Happily Married
 **Neovim Config**: [y9san9.nvim](https://github.com/y9san9/y9san9.nvim)
 **Bicycles**: Cannondale Topstone 3, Shultz Hopper XL
+**Longest Bicycle Trip**: 750km, 7 days ([[bicycle-moscow-minsk.md|Moscow -> Minsk]])
 **Favorite Tea**: Tieguanyin
-**Bad Habits**: no smoking (since 2021), no drinking (since 2025), no drugs (since 2019), no killing (ever)
+**Bad Habits**: no swearing (since 2024), no smoking (since 2021), no drinking (since 2025), no drugs (since 2019), no killing (ever)
 **Mafia Nickname:** Mr. Juice / г-н Сок
 **T-Shirt Size**: XXXL
 **Clash Royale Tag**: [#​PJJL8JYR](https://royaleapi.com/player/PJJL8JYR)
@@ -140,7 +141,7 @@ alias: verbose
 🇸🇦 **Arabic**: _Similar to hebrew but more popular_
 🇬🇷 **Greek**: _I want to speak in math formulas_
 🇳🇴 **Norwegian**: _English before it was mainstream_
-🇳🇱 **Dutch**: _If german was english or vice verca_
+🇳🇱 **Dutch**: _If german was english or vice versa_
 
 ## Political Views
 

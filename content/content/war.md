@@ -1,7 +1,7 @@
 ---
 title: West Approach to Russia was a Mistake
 description: Media hop on the trend and start fighting against Russia as well, but this time in information warfare. This is where Western strategy went wrong.
-alias: war
+permalink: war
 ---
 
 # West Approach to Russia was a Mistake

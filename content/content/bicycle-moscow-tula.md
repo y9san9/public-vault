@@ -1,5 +1,5 @@
 ---
-alias: tula
+permalink: tula
 title: Bicycle Trip. Moscow -> Tula. 350 km
 ---
 

@@ -1,5 +1,5 @@
 ---
-alias: minsk
+permalink: minsk
 title: Bicycle Trip. Moscow -> Minsk. 750 km
 description: |
     Highlights:
