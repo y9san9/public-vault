@@ -42,6 +42,18 @@
   }
 }
 
+:root[saved-theme="dark"] {
+    & > .light-theme {
+        display: none;
+    }
+}
+
+:root {
+    & > .dark-theme {
+        display: none;
+    }
+}
+
 :root .darkmode {
   & > .dayIcon {
     display: inline;
