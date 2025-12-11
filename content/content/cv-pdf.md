@@ -8,7 +8,7 @@ draft: true
 
 # Staff Engineer
 
-<img src="inline_avatar_circle.png" height="150" width="150" style="margin-top: 1rem;">
+<img src="inline_avatar_circle.png" height="120" width="120" style="margin-top: 1rem;">
 
 I am Alex. I love 2 things: engineering and networking. From the networking perspective I love all the people I get to meet and my main focus there is improving processes and cross-team communications. As engineer my main focus is architecture for Java & Kotlin backends. I am good at identifying critical problems and having a long-term vision about systems at scale.
 

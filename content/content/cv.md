@@ -3,12 +3,15 @@ title: Curriculum Vitae
 permalink: cv
 description: Staff Engineer • @y9san9
 ---
-<object
-    data="/resources/cv_timeline.svg"
-    type="image/svg+xml"
+
+<center><a href="/resources/cv.pdf"><img src="inline_pdf_logo.png" height=17 style="vertical-align: text-top;">  Download PDF</a></center>
+
+<embed
+    src="/resources/cv_timeline.svg"
     style="max-width: 100%;
-           border-radius: 5px;
-           margin: 1rem 0;"></object>
+           border: 0;
+           color-scheme: normal;
+           margin: 1rem 0;"></embed>
 
 # Staff Engineer
 
