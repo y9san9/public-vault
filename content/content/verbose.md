@@ -16,6 +16,7 @@ permalink: verbose
 **Preferred Name:** Alex / Алекс
 **Unique Name:** y9san9 ([[y9san9|pronunciation and origin]])
 **Company**: [Scientific Programming Center](https://sciprog.center)
+**CV**: [[content/cv|link]]
 **City:** Moscow, Russia
 **Timezone:** UTC+3
 **Age:** <a id="real-age" class="internal" href="/content/birthdays" style=" font-weight: bold; text-align: center; display: inline-block; width: 100px; vertical-align: middle;"></a> y.o.
