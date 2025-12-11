@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 permalink: cv
-description: Staff Engineer • @y9san9
+description: Staff Engineer • @y9san9 • Scientific Programming Center
 ---
 
 <center><a href="/resources/cv.pdf"><img src="inline_pdf_logo.png" height=17 style="vertical-align: text-top;">  Download PDF</a></center>
@@ -24,7 +24,7 @@ I am Alex. I love 2 things: engineering and networking. From the networking pers
 **Contacts:** ![[inline_gmail_logo.png|13]] mail@y9san9.me, ![[inline_telegram_logo.png|13]] [@y9san9](https://t.me/y9san9), ![[inline_github_logo.png|13]] [@y9san9](https://github.com/y9san9)
 **Languages:** 🇺🇸 Fluent, 🇷🇺 Native, 🇰🇷 Beginner
 
-# [MIPT](http://sciprog.center/)
+# [Scientific Programming Center](http://sciprog.center/)
 
 **Time Frame**: 2025 - present
 **Role**: R&D Staff Engineer (Java & Kotlin)
