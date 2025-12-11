@@ -10,9 +10,6 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "y9san9",
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     locale: "en-US",
     baseUrl: "y9san9.me",
     ignorePatterns: ["private", "templates", ".obsidian"],

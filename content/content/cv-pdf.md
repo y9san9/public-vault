@@ -2,13 +2,9 @@
 title: Curriculum Vitae
 permalink: cv
 description: Staff Engineer • @y9san9
+draft: true
 ---
-<object
-    data="/resources/cv_timeline.svg"
-    type="image/svg+xml"
-    style="max-width: 100%;
-           border-radius: 5px;
-           margin: 1rem 0;"></object>
+ ![[public/resources/cv_timeline_light.svg]]
 
 # Staff Engineer
 
@@ -44,11 +40,6 @@ I am Alex. I love 2 things: engineering and networking. From the networking pers
 **Time Frame**: 2021 - 2023
 **Role**: Middle Developer (Android & iOS)
 **Experience**: IceRock is an outsource company and I can't fit all the experience I had there in a single paragraph. I had more than 10 different projects throughout this journey. Some projects were solely implemented by me. Others had big teams. Some got very old technologies and legacy. Others were fresh new and shiny. It was a good kickstart for my career.
-
-# Freelance
-
-**Time Frame**: 2018 - 2021
-**Experience**: I was just learning to program and in 2018 you could take easy tasks with no competition. I built some Android Apps, Web Apps and backends. All of which were horrible at that time. This period was grinding and learning.
 
 # Misc
 
