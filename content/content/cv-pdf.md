@@ -4,7 +4,7 @@ permalink: cv
 description: Staff Engineer • @y9san9
 draft: true
 ---
- ![[public/resources/cv_timeline_light.svg]]
+ ![[content/resources/cv_timeline_light.svg]]
 
 # Staff Engineer
 
