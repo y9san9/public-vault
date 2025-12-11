@@ -57,5 +57,5 @@ I am Alex. I love 2 things: engineering and networking. From the networking pers
 
 - [Telegram](https://t.me/kotlinmeta) & [YouTube](https://youtube.com/@KotlinMeta) channels about Kotlin (in Russian)
 - Kotlin, Ktor, kotlinx contributor
-- Like to give [[verbose#Public Activities|public talks]]
+- Like to give [[content/verbose#Public Activities|public talks]]
 
