@@ -14,7 +14,7 @@ function updateAstroBox() {
         text += '🖕';
         astroBox.textContent = text;
     } else {
-        astroBox.textContent = '♑ Click ♑';
+        astroBox.textContent = '♐ Click ♐';
     }
 }
 
