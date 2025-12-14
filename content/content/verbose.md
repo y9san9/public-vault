@@ -40,6 +40,7 @@ permalink: verbose
 **Favorite Subject in School**: Biology
 **Google Drive**: <span style="display: inline-flex; align-items: center; gap: 12px; border-radius: 8px; background: var(--background); vertical-align: middle;"> <span style="white-space: nowrap;"> <span style="display: block;">38% used</span>  </span> <span style="display: flex; align-items: center; gap: 8px; white-space: nowrap;"> <span style="display: block; width: 80px; height: 6px; background: #eee; border-radius: 3px; overflow: hidden;"> <span style="display: block; width: 38%; height: 100%; background: #4285F4; border-radius: 3px;"></span> </span> <span style="display: block">15 GB / 40 GB</span> </span> </span>
 **Karate**: 1 kyū (6 years)
+**Metric Time:** <a href="https://metric-time.com/"><span id="metric-time"></span></a>
 
 ## Public Activities
 
@@ -150,3 +151,4 @@ I stand for free within society from oppressive restrictions imposed by authorit
 
 <script src="../counter.js"></script>
 <script src="../astro-box.js"></script>
+<script src="../metric-time.js"></script>
