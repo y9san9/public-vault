@@ -1,15 +1,82 @@
-// Birth date: December 20, 2003 at 13:25
-const birthDate = new Date(2003, 11, 20, 13, 25, 0, 0);
+// Birth date: December 20, 2003 at 13:25 UTC+3 (10:25 UTC)
+const birthDate = new Date(Date.UTC(2003, 11, 20, 10, 25, 0, 0));
+
 let updateInterval;
+
+// Leap years are pain in the ass
+//
+// And I don't know JS that good to write some readable code. I will pay $5 to
+// someone who will make it cleaner XD.
+function calculatePreciseAge(birth, now) {
+    const birthTime = birth.getTime();
+    const nowTime = now.getTime();
+
+    const birthYear = birth.getUTCFullYear();
+    const birthMonth = birth.getUTCMonth();
+    const birthDay = birth.getUTCDate();
+    const birthHour = birth.getUTCHours();
+    const birthMinute = birth.getUTCMinutes();
+    const birthSecond = birth.getUTCSeconds();
+    const birthMs = birth.getUTCMilliseconds();
+
+    const nowYear = now.getUTCFullYear();
+    const nowMonth = now.getUTCMonth();
+    const nowDay = now.getUTCDate();
+    const nowHour = now.getUTCHours();
+    const nowMinute = now.getUTCMinutes();
+    const nowSecond = now.getUTCSeconds();
+    const nowMs = now.getUTCMilliseconds();
+
+    let years = nowYear - birthYear;
+
+    const hadBirthdayThisYear = nowMonth > birthMonth ||
+        (nowMonth === birthMonth && nowDay > birthDay) ||
+        (nowMonth === birthMonth && nowDay === birthDay && nowHour > birthHour) ||
+        (nowMonth === birthMonth && nowDay === birthDay && nowHour === birthHour && nowMinute > birthMinute) ||
+        (nowMonth === birthMonth && nowDay === birthDay && nowHour === birthHour && nowMinute === birthMinute && nowSecond > birthSecond) ||
+        (nowMonth === birthMonth && nowDay === birthDay && nowHour === birthHour && nowMinute === birthMinute && nowSecond === birthSecond && nowMs >= birthMs);
+
+    if (!hadBirthdayThisYear) {
+        years--;
+    }
+
+    const lastBirthdayYear = hadBirthdayThisYear ? nowYear : nowYear - 1;
+    const lastBirthday = new Date(Date.UTC(
+        lastBirthdayYear,
+        birthMonth,
+        birthDay,
+        birthHour,
+        birthMinute,
+        birthSecond,
+        birthMs
+    ));
+
+    const nextBirthdayYear = hadBirthdayThisYear ? nowYear + 1 : nowYear;
+    const nextBirthday = new Date(Date.UTC(
+        nextBirthdayYear,
+        birthMonth,
+        birthDay,
+        birthHour,
+        birthMinute,
+        birthSecond,
+        birthMs
+    ));
+
+    const timeSinceLastBirthday = nowTime - lastBirthday.getTime();
+    const timeUntilNextBirthday = nextBirthday.getTime() - lastBirthday.getTime();
+    const fraction = timeSinceLastBirthday / timeUntilNextBirthday;
+
+    return years + fraction;
+}
 
 function updateAge() {
     const hexElement = document.getElementById('hex-age');
     const realElement = document.getElementById('real-age');
     const hexSquare = document.getElementById('hex-square');
-
     const now = new Date();
-    const ageInMilliseconds = now - birthDate;
-    const ageInYears = ageInMilliseconds / (1000 * 60 * 60 * 24 * 365.25);
+
+    const ageInYears = calculatePreciseAge(birthDate, now);
+
     const ageInHex = ageInYears.toString(16).replace('.', '').substring(0, 6).padEnd(6, '0');
     const r = parseInt(ageInHex.substr(0, 2), 16) / 255;
     const g = parseInt(ageInHex.substr(2, 2), 16) / 255;
@@ -46,7 +113,6 @@ function stopCounter() {
 
 function showBirthday() {
     const realElement = document.getElementById('real-age');
-
     if (realElement) {
         realElement.textContent = '20.12.2003';
     }
@@ -54,7 +120,6 @@ function showBirthday() {
 
 function initializeCounter() {
     const realElement = document.getElementById('real-age');
-
     if (realElement) {
         realElement.addEventListener('mouseenter', function() {
             stopCounter();
@@ -64,37 +129,29 @@ function initializeCounter() {
             startCounter();
         });
     }
-
     startCounter();
 }
 
 initializeCounter();
 
-const lambda = 0.0007;    // age-independent hazard (tweak for more/less baseline risk)
-const alpha  = 0.00008;   // Gompertz scale (tweak to raise/lower age-dep risk)
-const beta   = 0.095;     // Gompertz exponent (empirical ~0.085 is common).
+const lambda = 0.0007;
+const alpha = 0.00008;
+const beta = 0.095;
 
 function annualProbFromHazardAtAge(ageYears) {
-    // hazard μ(x) = lambda + alpha * e^{beta * x}
-    // integral_{x}^{x+1} μ(t) dt = lambda*1 + (alpha/beta) * (e^{beta*(x+1)} - e^{beta*x})
-    const exp_x    = Math.exp(beta * ageYears);
-    const exp_x1   = Math.exp(beta * (ageYears + 1));
-    const integral = lambda + (alpha / beta) * (exp_x1 - exp_x); // integral over 1 year
-    const p        = 1 - Math.exp(-integral); // one-year death probability
-    return p; // value in [0,1]
+    const exp_x = Math.exp(beta * ageYears);
+    const exp_x1 = Math.exp(beta * (ageYears + 1));
+    const integral = lambda + (alpha / beta) * (exp_x1 - exp_x);
+    const p = 1 - Math.exp(-integral);
+    return p;
 }
 
 function updateMortality() {
     const mortalityCounter = document.getElementById('mortality-counter');
     if (!mortalityCounter) return;
-
     const now = new Date();
-    const ageInYears = (now - birthDate) / (1000 * 60 * 60 * 24 * 365.25);
-
-    // compute one-year probability using Gompertz-Makeham
+    const ageInYears = calculatePreciseAge(birthDate, now);
     const p = annualProbFromHazardAtAge(ageInYears);
-
-    // show percentage with a reasonable number of decimals for readability
     const percent = (p * 100);
     mortalityCounter.textContent = `${percent.toFixed(11)}% per year`;
 }
