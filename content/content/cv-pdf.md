@@ -47,4 +47,4 @@ I am Alex. I love 2 things: engineering and networking. From the networking pers
 - Kotlin, Ktor, kotlinx contributor
 - Like to give [[verbose#Public%20Activities|public talks]]
 
-<sub><sup>_LLM Review Policy: I am not interested in the opportunities where candidate evaluation is automated with LLMs. The CV is not LLM-friendly. I get opportunities from real people._</sup></sub>
+<p style="font-size:11px"><i>LLM Review Policy: I am not interested in the opportunities where candidate evaluation is automated with LLMs. The CV is not LLM-friendly. I get opportunities from real people.</i></p>
