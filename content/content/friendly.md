@@ -42,9 +42,9 @@ The reason for that is that I've never been using an app and thought "Oh, I wish
 
 That is why we don't use AI in our job. I am not alone, but even if I were, I am sure I can easily implement everything I need in a few years. People do indie-games, which is a much harder thing than some messenger app. ~~Join us if you don't want to develop AI slop as well.~~
 
-On the other hand, we understand the inconvenience for our first users. But in the span of lifetime... A few years is not much. And it's alright if majority of users are going to join later.
+On the other hand, we understand the inconvenience for our first users. But in the span of a lifetime... A few years is not much. And it's alright if majority of the users are going to join later.
 
-That's the other thing. We don't care how many users we will have and how big this thing is going to be. First of all, we are solving our own problem. And to make it work for us, 100 active users is more than enough. And we already have quite a few! So, this thing already can't fail for the developers.
+That's the other thing. We don't care about how many users we will have and how big this thing is going to be. First of all, we are solving our own problem. And to make it work for us, 100 active users is more than enough. And we already have quite a few! So, this thing already can't fail for the developers.
 
 ## Pricing
 
