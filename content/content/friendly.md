@@ -1,7 +1,7 @@
 ---
 title: "Friendly: Social network for my friends"
 description: No numbers. No algorithms. No followers. Mutual connections only. No public content. We give people tools to find what they want to see; we don't decide for them. Posts in the community are chronologically sorted, people in feed are random friends of your friends.
-socialImage: friendly_banner.svg
+socialImage: friendly-icon.svg
 permalink: friendly
 ---
 # Social network for my friends
