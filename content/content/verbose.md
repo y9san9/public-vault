@@ -22,7 +22,7 @@ permalink: verbose
 **Age:** <a id="real-age" class="internal" href="/content/birthdays" style=" font-weight: bold; text-align: center; display: inline-block; width: 100px; vertical-align: middle;"></a> y.o.
 <strong style="vertical-align: middle;">Favorite Color:</strong> <span id="hex-age" style="vertical-align: middle;"></span> <span id="hex-square" style="display: inline-block; width: 15px; height: 15px; border-radius: 4px; vertical-align: middle; background: var(--secondary);"></span>
 **Death Chance:** <span id="mortality-counter"></span>
-**Height:** 6'3" / 192cm
+**Height:** 6'2" / 189cm
 **Weight:** 165lbs / 75kg
 **Sign**: <button id="astro-box" style="background: none; font-family: var(--bodyFont); display: inline-block; width: 100px; text-align: center; border: 1px solid var(--border); border-radius: 3px; cursor: pointer; vertical-align: middle;">♐ Click ♐</button>
 **Eye Color:** brown & green
