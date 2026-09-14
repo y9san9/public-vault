@@ -38,7 +38,7 @@ You connect -> Build up network -> Only your network sees your content. People d
 
 That is also one of the points that make our project stand out. We don't need to make money. We do our research and build for people. We don't care if that's 10 000 lines of code per day or 100.
 
-The reason for that is that I've never been using an app and thought "Oh, I wish it had 100 times more features!". Or "Oh, I with it was developing 100 times faster". I genuinely don't care about commits and speed of development, just do the thing professionally.
+The reason for that is that I've never been using an app and thought "Oh, I wish it had 100 times more features!". Or "Oh, I wish it was developing 100 times faster". I genuinely don't care about commits and speed of development, just do the thing professionally.
 
 That is why we don't use AI in our job. I am not alone, but even if I were, I am sure I can easily implement everything I need in a few years. People do indie-games, which is a much harder thing than some messenger app. ~~Join us if you don't want to develop AI slop as well.~~
 
