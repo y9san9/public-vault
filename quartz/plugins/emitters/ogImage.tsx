@@ -110,30 +110,30 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       return []
     },
     async *emit(ctx, content, _resources) {
-      const cfg = ctx.cfg.configuration
-      const headerFont = cfg.theme.typography.header
-      const bodyFont = cfg.theme.typography.body
-      const fonts = await getSatoriFonts(headerFont, bodyFont)
-
-      for (const [_tree, vfile] of content) {
-        if (vfile.data.frontmatter?.socialImage !== undefined) continue
-        yield processOgImage(ctx, vfile.data, fonts, fullOptions)
-      }
+      // const cfg = ctx.cfg.configuration
+      // const headerFont = cfg.theme.typography.header
+      // const bodyFont = cfg.theme.typography.body
+      // const fonts = await getSatoriFonts(headerFont, bodyFont)
+      //
+      // for (const [_tree, vfile] of content) {
+      //   if (vfile.data.frontmatter?.socialImage !== undefined) continue
+      //   yield processOgImage(ctx, vfile.data, fonts, fullOptions)
+      // }
     },
     async *partialEmit(ctx, _content, _resources, changeEvents) {
-      const cfg = ctx.cfg.configuration
-      const headerFont = cfg.theme.typography.header
-      const bodyFont = cfg.theme.typography.body
-      const fonts = await getSatoriFonts(headerFont, bodyFont)
-
-      // find all slugs that changed or were added
-      for (const changeEvent of changeEvents) {
-        if (!changeEvent.file) continue
-        if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
-        if (changeEvent.type === "add" || changeEvent.type === "change") {
-          yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
-        }
-      }
+      // const cfg = ctx.cfg.configuration
+      // const headerFont = cfg.theme.typography.header
+      // const bodyFont = cfg.theme.typography.body
+      // const fonts = await getSatoriFonts(headerFont, bodyFont)
+      //
+      // // find all slugs that changed or were added
+      // for (const changeEvent of changeEvents) {
+      //   if (!changeEvent.file) continue
+      //   if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
+      //   if (changeEvent.type === "add" || changeEvent.type === "change") {
+      //     yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
+      //   }
+      // }
     },
     externalResources: (ctx) => {
       if (!ctx.cfg.configuration.baseUrl) {
@@ -147,27 +147,15 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             const isRealFile = pageData.filePath !== undefined
             let userDefinedOgImagePath = pageData.frontmatter?.socialImage
 
-            if (userDefinedOgImagePath) {
-              userDefinedOgImagePath = isAbsoluteURL(userDefinedOgImagePath)
+            if (!userDefinedOgImagePath) {
+                return
+            }
+            const ogImagePath = isAbsoluteURL(userDefinedOgImagePath)
                 ? userDefinedOgImagePath
                 : `https://${baseUrl}/static/${userDefinedOgImagePath}`
-            }
-
-            const generatedOgImagePath = isRealFile
-              ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
-              : undefined
-            const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
-            const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
             return (
               <>
-                {!userDefinedOgImagePath && (
-                  <>
-                    <meta property="og:image:width" content={fullOptions.width.toString()} />
-                    <meta property="og:image:height" content={fullOptions.height.toString()} />
-                  </>
-                )}
-
                 <meta property="og:image" content={ogImagePath} />
                 <meta property="og:image:url" content={ogImagePath} />
                 <meta name="twitter:image" content={ogImagePath} />
