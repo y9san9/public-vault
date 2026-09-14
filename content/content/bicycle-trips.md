@@ -1,5 +1,5 @@
 ---
-permalnk: bi
+permalink: bi
 title: Bicycle Trips
 ---
 
