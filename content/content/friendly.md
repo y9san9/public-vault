@@ -3,7 +3,6 @@ title: "Friendly: Social network for my friends"
 description: No numbers. No algorithms. No followers. Mutual connections only. No public content. We give people tools to find what they want to see; we don't decide for them. Posts in the community are chronologically sorted, people in feed are random friends of your friends.
 socialImage: content/resources/friendly_banner.svg
 ---
-
 # Social network for my friends
 
 I started my fight with digital addiction 6 years ago, in 2020. And it's been a tough fight. I am not always winning, but I can surely say that a lot of progress was made. I wrote a note on that ([[digital-epidemic|Digital Epidemic]]) and recently I heard an interesting quote:
@@ -74,25 +73,17 @@ We already have quite a few features.
 
 You can already create fancy profiles and make friends:
 
-| Pic: Friendly Profile     | 
-| ------------------------- | 
-| ![[friendly_profile.png]] | 
+![[friendly_profile.png|500]]
 
-| Pic: Friendly Feed     |
-| ---------------------- |
-| ![[friendly_feed.png]] |
+![[friendly_feed.png|500]]
 
 <sub>Profiles have full markdown + sanitized html support.</sub>
 
 And you can also chat with friends using posts and threads, reactions:
 
-| Pic: Friendly Community     | 
-| --------------------------- | 
-| ![[friendly_community.png]] | 
+![[friendly_community.png|500]]
 
-| Pic: Friendly Activity     |
-| -------------------------- |
-| ![[friendly_activity.png]] |
+![[friendly_activity.png|500]]
 
 <sub>Posts have full markdown + sanitized html support.</sub>
 
