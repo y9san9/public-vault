@@ -74,17 +74,17 @@ We already have quite a few features.
 
 You can already create fancy profiles and make friends:
 
-![[public/resources/friendly_profile.png|500]]
+![[friendly_profile.png|500]]
 
-![[public/resources/friendly_feed.png|500]]
+![[friendly_feed.png|500]]
 
 <sub>Profiles have full markdown + sanitized html support.</sub>
 
 And you can also chat with friends using posts and threads, reactions:
 
-![[public/resources/friendly_community.png|500]]
+![[friendly_community.png|500]]
 
-![[public/resources/friendly_activity.png|500]]
+![[friendly_activity.png|500]]
 
 <sub>Posts have full markdown + sanitized html support.</sub>
 
