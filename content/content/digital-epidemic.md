@@ -1,12 +1,12 @@
 ---
 permalink: digital
 title: Digital Epidemic
-description: |
-    We have no time left:
-    • 7 hours: base sleep
-    • +7 hours: average screen time = 14 hours
-    • +2 hours: commuting = 16 hours
-    • +8 hours: work = 24 hours
+description: |-
+  We have no time left:
+  • 7 hours: base sleep
+  • +7 hours: average screen time = 14 hours
+  • +2 hours: commuting = 16 hours
+  • +8 hours: work = 24 hours
 ---
 
 # Digital Epidemic

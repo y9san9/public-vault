@@ -2,14 +2,14 @@
 permalink: minsk
 title: Bicycle Trip. Moscow -> Minsk. 750 km
 description: |
-    Highlights:
-    - Total distance: 765 km
-    - Calendar time: 6 days
-    - Riding time: ~42 hours
-    - Calories lost: 25 000 kcal
-    - Weight lost: 5 kg
-    - Bears mentioned by locals: yes
-    - Border guards surprised: 0
+  Highlights:
+  - Total distance: 765 km
+  - Calendar time: 6 days
+  - Riding time: ~42 hours
+  - Calories lost: 25 000 kcal
+  - Weight lost: 5 kg
+  - Bears mentioned by locals: yes
+  - Border guards surprised: 0
 ---
 
 
@@ -107,8 +107,8 @@ Energy Gels are very cool. We don't need to eat, we waste so much calories but i
 
 3 days in and we finally leave Moscow Oblast and enter Smolensk oblast. 200 km / 750 km done. Approximately at 2pm we got blessed by the sun. Clear and warm weather. If only it can be like this all the way to Minsk.
 
-| Pic: Me and Matthew somewhere on the highway | Pic: Smolensk oblast monument |
-| - | - |
+| Pic: Me and Matthew somewhere on the highway  | Pic: Smolensk oblast monument                      |
+| --------------------------------------------- | -------------------------------------------------- |
 | ![[bicycle_trip_moscow_minsk_me_matthew.jpg]] | ![[bicycle_trip_moscow_minsk_smolensk_oblast.jpg]] |
 
 After 12 hours of riding we rent another place near Vyazma. Denis decided to leave us after 2 days of the journey. Thank you Denis for these photos and for the morale boost. He mostly left because of the bicycle condition and that he was not comfortable with riding near the cars (which is totally understandable). Our talk with Matthew right after Denis left:
